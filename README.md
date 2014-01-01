@@ -15,3 +15,5 @@ To install, just open Monokai.itermcolors.
 **Terminal**
 
 To install, just open Monokai.terminal.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gabrielrinaldi/monokai/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
